@@ -1,0 +1,25 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.user-profile {
+    margin: auto;
+    width: 50%;
+    padding: 10px 20px;
+    background-color: lightgreen;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    border: 0;
+    width: auto;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px 0;
+}
