@@ -1,0 +1,1 @@
+This repository includes the assignment: React State and Props in Module 11: Lesson 2 of the Software Engineering Core.
